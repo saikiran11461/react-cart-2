@@ -1,0 +1,111 @@
+{
+    "mens":[
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/js98x3k0/shirt/s/a/j/s-6832669-wrogn-original-imafdv9bzmsyqxah.jpeg?q=50",
+            "Brand":"Wrogn",
+            "Type":"Shirt",
+            "Price":"2000"
+        },
+
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/jw5a2kw0/shirt/h/z/j/44-2518720-mast-harbour-original-imafgwhkuhvhyvcm.jpeg?q=50",
+            "Brand":"Mast& Harbour",
+            "Type":"Shirt",
+            "Price":"5000"
+        },
+
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/l1qrjbk0/shirt/7/d/m/free-new-mom-dad-kangli-original-imagd8q8xwnfdg83.jpeg?q=50",
+            "Brand":"Kangli",
+            "Type":"T-Shirt",
+            "Price":"1000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/300/300/kubk70w0/t-shirt/u/h/b/l-jc21-rn-fs-black-grey-spray-aop-jump-cuts-original-imag7h356jekpu2k.jpeg?q=90",
+            "Brand":"Wrogn",
+            "Type":"T-Shirt",
+            "Price":"5500"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/300/300/kubk70w0/t-shirt/u/h/b/l-jc21-rn-fs-black-grey-spray-aop-jump-cuts-original-imag7h356jekpu2k.jpeg?q=90",
+            "Brand":"Wrogn",
+            "Type":"T-Shirt",
+            "Price":"5500"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/300/300/khdqnbk0/t-shirt/r/u/0/m-fc4173-fastcolors-original-imafxettxhthw8ye.jpeg?q=90",
+            "Brand":"Peter-England",
+            "Type":"Shirt",
+            "Price":"10000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/300/300/khdqnbk0/t-shirt/r/u/0/m-fc4173-fastcolors-original-imafxettxhthw8ye.jpeg?q=90",
+            "Brand":"Peter-England",
+            "Type":"Shirt",
+            "Price":"10000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/300/300/khdqnbk0/t-shirt/r/u/0/m-fc4173-fastcolors-original-imafxettxhthw8ye.jpeg?q=90",
+            "Brand":"Peter-England",
+            "Type":"Shirt",
+            "Price":"10000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/880/1056/ku5ufm80/t-shirt/d/c/q/s-t30-nbmt-black-mass-original-imag7c9zbb4ydfyw.jpeg?q=50",
+            "Brand":"Black Mass",
+            "Type":"T-Shirt",
+            "Price":"259"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/880/1056/ku5ufm80/t-shirt/d/c/q/s-t30-nbmt-black-mass-original-imag7c9zbb4ydfyw.jpeg?q=50",
+            "Brand":"Black Mass",
+            "Type":"T-Shirt",
+            "Price":"259"
+        }
+    
+    ],
+    
+    "Womens":[
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/kzegk280/fabric/i/l/m/yes-2-m-unstitched-2-2-m-1122dj978-siril-original-imagbf9gvbeztagn.jpeg?q=50",
+            "Brand":"Siril",
+            "Type":"Crepe SAlwar",
+            "Price":"200"
+        },
+
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/ksuowi80/fabric/s/x/v/yes-2-m-unstitched-2-2-m-daliya-babypink-vasundhra-fashion-original-imag6bwvv4zpacwz.jpeg?q=50",
+            "Brand":"Vasundra-fashion",
+            "Type":"Saree",
+            "Price":"15000"
+        },
+
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/ktx9si80/fabric/t/i/z/yes-2-2-m-unstitched-2-2-m-lz-mall-528-dutt-textile-original-imag6msstwf6chfw.jpeg?q=50",
+            "Brand":"Kangli",
+            "Type":"SUit",
+            "Price":"10000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/ktx9si80/fabric/t/i/z/yes-2-2-m-unstitched-2-2-m-lz-mall-528-dutt-textile-original-imag6msstwf6chfw.jpeg?q=50",
+            "Brand":"Kangli",
+            "Type":"SUit",
+            "Price":"10000"
+        },
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/ksuowi80/fabric/s/x/v/yes-2-m-unstitched-2-2-m-daliya-babypink-vasundhra-fashion-original-imag6bwvv4zpacwz.jpeg?q=50",
+            "Brand":"Vasundra-fashion",
+            "Type":"Saree",
+            "Price":"15000"
+        },
+
+        {
+            "img":"https://rukminim2.flixcart.com/image/580/696/ktx9si80/fabric/t/i/z/yes-2-2-m-unstitched-2-2-m-lz-mall-528-dutt-textile-original-imag6msstwf6chfw.jpeg?q=50",
+            "Brand":"Kangli",
+            "Type":"SUit",
+            "Price":"10000"
+        }
+        
+        
+    ]
+}
